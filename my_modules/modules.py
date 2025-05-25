@@ -87,7 +87,7 @@ class phim_database:
             # Cập nhật lại các thuộc tính của đối tượng
             matched.ten = new_dict.get("ten", matched.ten)  # Nếu không có key "ten" thì giữ nguyên
             matched.theloai = new_dict.get("theloai", matched.theloai)
-            matched.thoiluong = int(new_dict.get("thoiluong", matched.thoiluong))  # Chuyển thành int
+            matched.thoiluong = int(new_dict.get("thoiluong", matched.thoiluong))  # Chuyển thành indddđ
             matched.image = new_dict.get("image", matched.image)
 
             # Cập nhật lại danh sách phim_dict_data
