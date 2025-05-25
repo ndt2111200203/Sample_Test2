@@ -1,0 +1,20 @@
+[
+    {
+        "ten": "Conan",
+        "theloai": "Trinh tham",
+        "thoiluong": 20,
+        "image": "C:/Users/ndt21/Downloads/playbutton.png"
+    },
+    {
+        "ten": "The Lord of the Rings",
+        "theloai": "Phieu luu",
+        "thoiluong": 180,
+        "image": "C:/Users/ndt21/Downloads/craftpix-net-339194-free-fantasy-enemies-pixel-art-sprite-pack/Fire_Spirit/Charge.png"
+    },
+    {
+        "ten": "Doremon",
+        "theloai": "Hoat hinh",
+        "thoiluong": 123,
+        "image": "C:/Users/ndt21/Downloads/craftpix-net-339194-free-fantasy-enemies-pixel-art-sprite-pack/Plent/Walk.png"
+    }
+]
