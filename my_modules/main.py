@@ -95,7 +95,7 @@ class MainWindow(QMainWindow):
         ten = self.ui.phimlist.currentItem().text()
         phim_item = self.dtb.get_first_item_by_title(ten)
 
-        # Nếu không tìm thấy phim muốn xóa trong cơ sở dữ liệu
+        # Nếu không tìm thấy phim muốn sửa trong cơ sở dữ liệu
         if not phim_item:
             QMessageBox.warning(self, "Error", "Không tìm thấy phim muốn sửa!")
             return
